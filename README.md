@@ -1,4 +1,6 @@
-# RoadPackPlus
+> [!WARNING]  
+> 最新バージョンには対応していません。現在対応中です。進捗はV3ブランチを確認してください。# RoadPackPlus
+
 1/16サイズ〜16/16サイズの落下しない灰色・白色・オレンジ色のコンクリートパウダーと、縦・横・斜め（4種類）の白線入りの灰色のコンクリートパウダー、側溝ブロック、縁石ブロックなどを追加します。
 
 iPadOS版 Minecraft Bedrock Edition V1.19.50
@@ -9,9 +11,6 @@ Windows版 Minecraft Bedrock Edition V1.20.12
 
 # 互換性
 Minecraft Bedrock Edtion V1.19.50 ~ V1.20.40
-
-> [!WARNING]  
-> 最新バージョンには対応していません。現在対応中です。進捗はV3ブランチを確認してください。
 
 # What's new - 新着情報
 12/２ V2.1.0 Update
