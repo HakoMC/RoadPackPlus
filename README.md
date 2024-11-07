@@ -8,7 +8,10 @@ Windows版 Minecraft Bedrock Edition V1.20.12
 において動作確認済み。
 
 # 互換性
-Minecraft Bedrock Edtion V1.19.50 ~
+Minecraft Bedrock Edtion V1.19.50 ~ V1.20.40
+
+> [!WARNING]  
+> 最新バージョンには対応していません。現在対応中です。進捗はV3ブランチを確認してください。
 
 # What's new - 新着情報
 12/２ V2.1.0 Update
